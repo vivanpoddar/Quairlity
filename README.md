@@ -95,7 +95,7 @@ These are the main tools I used, though there were many libraries I used such as
 
 Here is an architecture overview for the app:
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/vivanpoddar/Quairlity/blob/main/github_assets/archchart.png)
+[![Product Name Screen Shot][product-diagram]](https://github.com/vivanpoddar/Quairlity/blob/main/github_assets/archchart.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,4 +184,5 @@ Would like to use this space for resources that helped me along this path
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/vivanpoddar
 [product-screenshot]: https://github.com/vivanpoddar/Quairlity/blob/main/github_assets/introducing.png
+[product-diagram]: https://github.com/vivanpoddar/Quairlity/blob/main/github_assets/archchart.png
 
