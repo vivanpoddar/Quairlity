@@ -1,0 +1,11 @@
+global:
+  scrape_interval:     15s
+  external_labels:
+    monitor: 'codelab-monitor'
+
+scrape_configs:
+  - job_name: 'quairlity'
+    metrics_path: /metrics
+    scrape_interval: 30s
+    static_configs:
+      - targets: ['<sensorid>:9926']
