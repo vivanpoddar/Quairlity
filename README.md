@@ -163,6 +163,8 @@ Would like to use this space for resources that helped me along this path
 	* OpenAI API
 	* Axios
 
+Just to emphasize, all resources I used were either open-source or with the knowledge of the original developer.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
