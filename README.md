@@ -33,7 +33,7 @@
   <h3 align="center">Quairlity</h3>
 
   <p align="center">
-    The catch-all AI enabled indoor air quality monitoring solution
+    The catch-all AI enabled indoor air quality monitoring solution. Winner of the Congressional App Challenge PA07.
     <br />
     <a href="https://github.com/vivanpoddar/Quairlity">View Demo</a>
     ·
@@ -73,6 +73,8 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/vivanpoddar/Quairlity/blob/main/github_assets/introducing.png)
+
+Note for the Rise submission: This was also my GitHub submission for the Congressional App Challenge, and had its last commit on Nov 1. The reason I submitted this is because it has a stable Android build.
 
 This was my submission for the 2023 Congressional App Challenge, and the video can be found [here](https://www.youtube.com/watch?v=OwDTL8u8CW4&feature=youtu.be). Quairlity offers a holistic solution for indoor air quality monitoring and improvement. It covers a wide range of pollutants and provides actionable insights for users to address these issues effectively. It is an indoor air quality app and inexpensive IoT sensor designed to simplify the process of ensuring a safe and cost-effective indoor air environment. The device is able to detect and identify numerous indoor air pollutants, such as asbestos, mold, CO2, and dust via its Particulate Matter 2.5 sensor, CO2 sensor, temperature and humidity sensor. With the Quairlity AI functionality built on OpenAI's models, by attributing pollutants to specific sources, users can take tailored actions suggested by Quairlity AI to address their unique indoor air quality issues. Through the app's data visualization, users can gain valuable insights into air quality trends, allowing the user to take more informed decisions. The app is the first of its kind in the indoor air quality monitoring space that utilizes AI to offer a two-in-one air quality assistant and monitor, showing its innovation as a product. With its easy to understand UI design for the common person, Quairlity offers a comprehensive indoor air quality monitoring and improvement tool, and is the catch-all solution for any air quality problem. 
 
